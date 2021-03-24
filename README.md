@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nollid08!
+- 👋 Hi, I’m Dillon!
 - 👀 I’m interested in programming, mountain climbing, running, and cycling
 - 🌱 I’m currently learning Flutter and Eleventy
 - 📫 You can reach me at Dillonkdy@gmail.com
